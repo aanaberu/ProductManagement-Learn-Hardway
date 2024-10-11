@@ -29,4 +29,20 @@ customer satisfaction. Because products are marketed throughout the world, firms
 variety for satisfying a broad set of customers. This has expanded the need for marketing tolook beyond the single product to focus on the
 product platform.
 
+## Product Development – End to End
 
+Researchers in marketing believed that the key to success was a better understanding of the voice of the customer and a better ability to 
+link that voice to the engineering decisions that are made in launching a product.
+
+Today, both industry and academia view successful product development as an integrated process that must overcome many
+tradeoffs, as depicted in Figure. Customer satisfaction, time to market, and cost reduction through total quality management are all
+important, but none is viewed as the only guarantee of success.
+
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
