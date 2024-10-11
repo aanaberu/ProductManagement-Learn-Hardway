@@ -12,5 +12,21 @@ These are the learning from the MIT resources "Managing a Dispersed Product Deve
 Marketing, with its focus on the customer,has had great success. Tools such as conjoint analysis, voice-of-the-customer analysis,
 perceptual mapping, intention scaling, portfolio optimization, and lifecycle forecasting are now in common use. Firms that continuously 
 and efficiently generate new products that are in tune with their end customers’ needs and wants
-are more likely to thrive (Griffin and Page
-1996). Direct communication with customers allows firms to learn from customers and tailor products to their requirements.
+are more likely to thrive. 
+Direct communication with customers allows firms to learn from customers and tailor products to their requirements.
+
+One of the core principles of development of perscriptive tools, resarches have studied the correlates of new product success identifying
+communication between marketing and engineering as one of the most important factors in success. organizational process tools such as 
+cross-function teams, quality function deployment , and co-location were developed to promote the sharing of ideas and the close integration
+of engineering decisions with customer needs.
+
+The new vision of product development is that of a highly disaggregated process with people and organizations spread throughout the world
+. At the same time products are becoming increasing complex with typical electro-mechanical products requiring close to a million engineering 
+decisions to bring them to market.
+
+Competitive pressures mean that time to market has become as key to new product success as marketing’s orientation on customer needs and
+customer satisfaction. Because products are marketed throughout the world, firms face the tradeoff between standardization for cost reduction and
+variety for satisfying a broad set of customers. This has expanded the need for marketing tolook beyond the single product to focus on the
+product platform.
+
+
