@@ -45,9 +45,4 @@ graph TD;
     ProductionCost<-->DevelopmentCost;
     DevelopmentCost<-->DeliverCustomerBenefits;
     DeliverCustomerBenefits<-->TimetoMarket;
-    TimetoMarket<-->DevelopmentCost;
-    TimetoMarket<-->DeliverCustomerBenefits;
-    
-    ProductionCost<-->DeliverCustomerBenefits;
-    D
 ```
