@@ -42,7 +42,7 @@ important, but none is viewed as the only guarantee of success.
 ```mermaid
 graph TD;
     TimetoMarket-->ProductionCost;
-    'Time to Market'-->'Development Cost';
-    'Production Cost'-->'Deliver Customer Benefits';
-    'Development Cost'-->'Deliver Customer Benefits';
+    TimetoMarket-->DevelopmentCost;
+    ProductionCost-->DeliverCustomerBenefits;
+    DevelopmentCost-->DeliverCustomerBenefits;
 ```
